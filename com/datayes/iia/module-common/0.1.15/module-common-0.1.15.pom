@@ -3,8 +3,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.datayes.iia</groupId>
-  <artifactId>module_common</artifactId>
-  <version>0.1.14</version>
+  <artifactId>module-common</artifactId>
+  <version>0.1.15</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -22,7 +22,7 @@
     <dependency>
       <groupId>com.datayes</groupId>
       <artifactId>common-view</artifactId>
-      <version>0.1.24</version>
+      <version>0.1.26</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -119,19 +119,19 @@
     <dependency>
       <groupId>com.datayes</groupId>
       <artifactId>common-utils</artifactId>
-      <version>0.1.12</version>
+      <version>0.1.13</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.datayes</groupId>
       <artifactId>common-net</artifactId>
-      <version>0.1.16</version>
+      <version>0.1.17</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.datayes</groupId>
       <artifactId>common-storage</artifactId>
-      <version>0.1.7</version>
+      <version>0.1.8</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -143,7 +143,7 @@
     <dependency>
       <groupId>com.datayes</groupId>
       <artifactId>common-cloud</artifactId>
-      <version>0.1.20</version>
+      <version>0.1.21</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
