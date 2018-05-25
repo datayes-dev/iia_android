@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.datayes.iia</groupId>
   <artifactId>module-common</artifactId>
-  <version>0.3.20</version>
+  <version>0.3.22</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -28,7 +28,7 @@
     <dependency>
       <groupId>com.datayes</groupId>
       <artifactId>common-view</artifactId>
-      <version>0.2.1</version>
+      <version>0.2.6</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
