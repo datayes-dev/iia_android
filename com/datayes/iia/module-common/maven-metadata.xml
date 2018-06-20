@@ -3,10 +3,11 @@
   <groupId>com.datayes.iia</groupId>
   <artifactId>module-common</artifactId>
   <versioning>
-    <release>0.4.21</release>
+    <release>0.4.22</release>
     <versions>
       <version>0.4.21</version>
+      <version>0.4.22</version>
     </versions>
-    <lastUpdated>20180620075709</lastUpdated>
+    <lastUpdated>20180620085707</lastUpdated>
   </versioning>
 </metadata>
