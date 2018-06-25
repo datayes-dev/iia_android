@@ -3,12 +3,17 @@
   <groupId>com.datayes.iia</groupId>
   <artifactId>module-common</artifactId>
   <versioning>
+<<<<<<< HEAD
     <release>0.4.44</release>
+=======
+    <release>0.4.41</release>
+>>>>>>> 45fd59629c7ab0c7a005401de48bd98f39ca0334
     <versions>
       <version>0.4.21</version>
       <version>0.4.22</version>
       <version>0.4.23</version>
       <version>0.4.24</version>
+<<<<<<< HEAD
       <version>0.4.3</version>
       <version>0.4.31</version>
       <version>0.4.32</version>
@@ -18,5 +23,11 @@
       <version>0.4.44</version>
     </versions>
     <lastUpdated>20180625090826</lastUpdated>
+=======
+      <version>0.4.40</version>
+      <version>0.4.41</version>
+    </versions>
+    <lastUpdated>20180625081243</lastUpdated>
+>>>>>>> 45fd59629c7ab0c7a005401de48bd98f39ca0334
   </versioning>
 </metadata>
