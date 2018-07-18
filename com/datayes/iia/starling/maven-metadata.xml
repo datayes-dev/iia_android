@@ -3,7 +3,7 @@
   <groupId>com.datayes.iia</groupId>
   <artifactId>starling</artifactId>
   <versioning>
-    <release>0.2.21</release>
+    <release>0.2.22</release>
     <versions>
       <version>0.1.16</version>
       <version>0.1.17</version>
@@ -32,7 +32,8 @@
       <version>0.2.18</version>
       <version>0.2.20</version>
       <version>0.2.21</version>
+      <version>0.2.22</version>
     </versions>
-    <lastUpdated>20180717060108</lastUpdated>
+    <lastUpdated>20180718064121</lastUpdated>
   </versioning>
 </metadata>
