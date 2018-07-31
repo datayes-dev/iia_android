@@ -22,7 +22,7 @@
     <dependency>
       <groupId>com.datayes</groupId>
       <artifactId>common-view</artifactId>
-      <version>0.2.16</version>
+      <version>0.2.12</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
