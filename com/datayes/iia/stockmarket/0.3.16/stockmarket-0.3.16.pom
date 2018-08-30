@@ -10,7 +10,7 @@
     <dependency>
       <groupId>com.datayes.iia</groupId>
       <artifactId>module-common</artifactId>
-      <version>1.2.5</version>
+      <version>1.2.7</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
