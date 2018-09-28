@@ -28,7 +28,7 @@
     <dependency>
       <groupId>com.datayes</groupId>
       <artifactId>common-cloud</artifactId>
-      <version>0.2.13</version>
+      <version>0.2.14</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
