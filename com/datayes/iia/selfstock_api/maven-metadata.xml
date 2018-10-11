@@ -3,7 +3,7 @@
   <groupId>com.datayes.iia</groupId>
   <artifactId>selfstock_api</artifactId>
   <versioning>
-    <release>0.2.10</release>
+    <release>0.2.11</release>
     <versions>
       <version>0.1.2</version>
       <version>0.1.1</version>
@@ -21,7 +21,8 @@
       <version>0.2.8</version>
       <version>0.2.9</version>
       <version>0.2.10</version>
+      <version>0.2.11</version>
     </versions>
-    <lastUpdated>20181010110705</lastUpdated>
+    <lastUpdated>20181011090807</lastUpdated>
   </versioning>
 </metadata>
