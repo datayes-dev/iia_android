@@ -28,7 +28,7 @@
     <dependency>
       <groupId>com.datayes.iia</groupId>
       <artifactId>selfstock_api</artifactId>
-      <version>0.1.5</version>
+      <version>0.2.12</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
