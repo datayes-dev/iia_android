@@ -10,7 +10,7 @@
     <dependency>
       <groupId>com.datayes.iia</groupId>
       <artifactId>module-common</artifactId>
-      <version>1.6.21</version>
+      <version>1.6.19</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -58,7 +58,7 @@
     <dependency>
       <groupId>com.datayes.iia</groupId>
       <artifactId>module-chart</artifactId>
-      <version>0.1.1</version>
+      <version>0.1.2</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
