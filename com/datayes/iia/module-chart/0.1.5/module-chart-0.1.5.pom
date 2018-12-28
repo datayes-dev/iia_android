@@ -10,7 +10,7 @@
     <dependency>
       <groupId>com.datayes</groupId>
       <artifactId>common-chart</artifactId>
-      <version>0.6.0</version>
+      <version>0.6.4</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -20,15 +20,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.android.support</groupId>
-      <artifactId>multidex</artifactId>
-      <version>1.0.3</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.datayes.iia</groupId>
       <artifactId>servicestock_api</artifactId>
-      <version>1.0.2</version>
+      <version>1.0.3</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
