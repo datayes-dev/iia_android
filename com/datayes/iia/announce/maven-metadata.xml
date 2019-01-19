@@ -3,64 +3,10 @@
   <groupId>com.datayes.iia</groupId>
   <artifactId>announce</artifactId>
   <versioning>
-    <release>1.7.0</release>
+    <release>1.7.1</release>
     <versions>
-      <version>1.0.0</version>
-      <version>1.0.1</version>
-      <version>1.0.2</version>
-      <version>1.0.3</version>
-      <version>1.0.4</version>
-      <version>1.0.5</version>
-      <version>1.0.7</version>
-      <version>1.0.8</version>
-      <version>1.1.1</version>
-      <version>1.1.2</version>
-      <version>1.1.3</version>
-      <version>1.1.4</version>
-      <version>1.1.5</version>
-      <version>1.1.6</version>
-      <version>1.1.8</version>
-      <version>1.1.9</version>
-      <version>1.2.0</version>
-      <version>1.2.2</version>
-      <version>1.2.3</version>
-      <version>1.3.0</version>
-      <version>1.4.0</version>
-      <version>1.4.1</version>
-      <version>1.4.2</version>
-      <version>1.4.3</version>
-      <version>1.5.0</version>
-      <version>1.5.2</version>
-      <version>1.5.3</version>
-      <version>1.5.4</version>
-      <version>1.5.5</version>
-      <version>1.5.6</version>
-      <version>1.5.7</version>
-      <version>1.5.8</version>
-      <version>1.5.9</version>
-      <version>1.5.10</version>
-      <version>1.5.11</version>
-      <version>1.5.12</version>
-      <version>1.5.13</version>
-      <version>1.5.14</version>
-      <version>1.5.15</version>
-      <version>1.6.0</version>
-      <version>1.6.1</version>
-      <version>1.6.4</version>
-      <version>1.6.5</version>
-      <version>1.6.3</version>
-      <version>1.6.7</version>
-      <version>1.6.9</version>
-      <version>1.6.10</version>
-      <version>1.6.11</version>
-      <version>1.6.12</version>
-      <version>1.6.13</version>
-      <version>1.6.14</version>
-      <version>1.6.15</version>
-      <version>1.6.17</version>
-      <version>1.6.16</version>
-      <version>1.7.0</version>
+      <version>1.7.1</version>
     </versions>
-    <lastUpdated>20190119082449</lastUpdated>
+    <lastUpdated>20190119103611</lastUpdated>
   </versioning>
 </metadata>
