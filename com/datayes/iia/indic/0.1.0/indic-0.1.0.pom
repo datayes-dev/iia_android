@@ -16,7 +16,7 @@
     <dependency>
       <groupId>com.datayes</groupId>
       <artifactId>common-chart</artifactId>
-      <version>0.6.20</version>
+      <version>0.6.21</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
