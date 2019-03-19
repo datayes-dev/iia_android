@@ -3,7 +3,7 @@
   <groupId>com.datayes.iia</groupId>
   <artifactId>news</artifactId>
   <versioning>
-    <release>1.2.27</release>
+    <release>1.2.22.fixed</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -57,7 +57,8 @@
       <version>1.2.25</version>
       <version>1.2.26</version>
       <version>1.2.27</version>
+      <version>1.2.22.fixed</version>
     </versions>
-    <lastUpdated>20190319090621</lastUpdated>
+    <lastUpdated>20190319094720</lastUpdated>
   </versioning>
 </metadata>
