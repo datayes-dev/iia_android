@@ -3,7 +3,7 @@
   <groupId>com.datayes.iia</groupId>
   <artifactId>module-common</artifactId>
   <versioning>
-    <release>1.12.18</release>
+    <release>1.12.19</release>
     <versions>
       <version>1.6.28</version>
       <version>1.9.6</version>
@@ -39,7 +39,8 @@
       <version>1.12.16</version>
       <version>1.12.17</version>
       <version>1.12.18</version>
+      <version>1.12.19</version>
     </versions>
-    <lastUpdated>20190412031849</lastUpdated>
+    <lastUpdated>20190412054847</lastUpdated>
   </versioning>
 </metadata>
