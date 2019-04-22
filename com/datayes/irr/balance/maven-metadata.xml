@@ -3,7 +3,7 @@
   <groupId>com.datayes.irr</groupId>
   <artifactId>balance</artifactId>
   <versioning>
-    <release>1.5.21</release>
+    <release>1.5.22</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -85,7 +85,8 @@
       <version>1.5.19</version>
       <version>1.5.20</version>
       <version>1.5.21</version>
+      <version>1.5.22</version>
     </versions>
-    <lastUpdated>20190420095118</lastUpdated>
+    <lastUpdated>20190422015230</lastUpdated>
   </versioning>
 </metadata>
