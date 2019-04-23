@@ -3,7 +3,7 @@
   <groupId>com.datayes.iia</groupId>
   <artifactId>robotforecast</artifactId>
   <versioning>
-    <release>1.5.7</release>
+    <release>1.5.8</release>
     <versions>
       <version>1.3.3</version>
       <version>1.3.4</version>
@@ -34,7 +34,8 @@
       <version>1.5.4</version>
       <version>1.5.5</version>
       <version>1.5.7</version>
+      <version>1.5.8</version>
     </versions>
-    <lastUpdated>20190411060857</lastUpdated>
+    <lastUpdated>20190423070511</lastUpdated>
   </versioning>
 </metadata>
