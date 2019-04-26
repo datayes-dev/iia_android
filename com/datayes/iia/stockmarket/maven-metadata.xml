@@ -3,7 +3,7 @@
   <groupId>com.datayes.iia</groupId>
   <artifactId>stockmarket</artifactId>
   <versioning>
-    <release>0.9.8</release>
+    <release>0.9.10</release>
     <versions>
       <version>0.7.4</version>
       <version>0.7.5</version>
@@ -37,7 +37,8 @@
       <version>0.9.4</version>
       <version>0.9.5</version>
       <version>0.9.8</version>
+      <version>0.9.10</version>
     </versions>
-    <lastUpdated>20190425125159</lastUpdated>
+    <lastUpdated>20190426081151</lastUpdated>
   </versioning>
 </metadata>
