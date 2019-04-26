@@ -56,9 +56,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>iia-common-news</groupId>
+      <groupId>com.datayes.iia</groupId>
       <artifactId>news_api</artifactId>
-      <version>unspecified</version>
+      <version>1.0.3</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
