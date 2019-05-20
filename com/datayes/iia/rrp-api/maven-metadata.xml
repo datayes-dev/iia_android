@@ -3,18 +3,11 @@
   <groupId>com.datayes.iia</groupId>
   <artifactId>rrp-api</artifactId>
   <versioning>
-<<<<<<< HEAD
-    <release>1.0.1</release>
+    <release>1.0.2</release>
     <versions>
       <version>1.0.1</version>
+      <version>1.0.2</version>
     </versions>
-    <lastUpdated>20190515060432</lastUpdated>
-=======
-    <release>1.0.0</release>
-    <versions>
-      <version>1.0.0</version>
-    </versions>
-    <lastUpdated>20190514121316</lastUpdated>
->>>>>>> c668600c16b8c002c53dc2cda354941c14414ce5
+    <lastUpdated>20190517093452</lastUpdated>
   </versioning>
 </metadata>
